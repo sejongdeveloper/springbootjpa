@@ -17,6 +17,8 @@ public class Account {
 
     private String email;
 
+    private boolean active;
+
     public Long getId() {
         return id;
     }
