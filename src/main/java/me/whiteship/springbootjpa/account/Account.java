@@ -15,6 +15,8 @@ public class Account {
 
     private String password;
 
+    private String email;
+
     public Long getId() {
         return id;
     }
