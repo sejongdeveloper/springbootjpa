@@ -26,7 +26,7 @@ public class AccountRepositoryTest {
     AccountRepository accountRepository;
 
     @Test
-    public void di() throws SQLException {
+    public void di() {
         Account account = new Account();
         account.setUsername("keesun");
         account.setPassword("pass");
