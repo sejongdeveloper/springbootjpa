@@ -1,13 +1,13 @@
 package me.whiteship.springbootjpa;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootjpaApplicationTests {
+public class SpringbootjpaApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
